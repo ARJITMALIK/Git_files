@@ -39,5 +39,6 @@ int main()
     {
         printf("%d " , ar[i]);
     }
+    print("Test change");
     return 0;
 }
