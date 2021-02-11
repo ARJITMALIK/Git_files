@@ -42,6 +42,7 @@ int main()
         }
         printf("\n");
     }
+    printf("test test");
 
    return 0;
 }
